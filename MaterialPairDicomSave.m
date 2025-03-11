@@ -2,7 +2,7 @@ function MaterialPairDicomSave(MaterialPair, MaterialNames, savepath, info)
 % % save dual basis material pair image as .dcm
 % Input
 %   MaterialPair: a struct, containing specified dual basis material pair image
-%   flag: MaterialDecomposition parameter
+%   MaterialNames: base material Names
 %   savepath: image save path
 %   info: corresponding low image dicominfo
 % 
